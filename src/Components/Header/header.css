@@ -1,0 +1,6 @@
+.header {
+  background-image: url("../../Assets/shape1.png");
+  /* background-size: cover; */
+  background-position: top left;
+  background-repeat: no-repeat;
+}
